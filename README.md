@@ -1,5 +1,5 @@
 # SysInventario
-Repo para sistema de inventario hecho con django y bootstrap 4
+Repo para sistema de inventario hecho con django y vuejs
 
 Para la ejecucion de este proyecto, es necesario tener un entorno virtual creado (virtualenv),
 luego ejecutar la instalacion con pip3 del requeriments.txt, 
