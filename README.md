@@ -59,6 +59,7 @@ _Integrantes del proyecto inicial_
 * **Miguel Pellegrino** - *Trabajo inicial* - [Miguelpellegrino](https://github.com/Miguelpellegrino)
 * **Deyker Gil** - *Trabajo inicial* - [deykerag](https://github.com/deykerag)
 * **Angel Martinez** - *Incorporacion despues del inicio* - [Ang3lM](https://github.com/Ang3lM)
+* **Jonathan Perez** - *Trabajo inicial* - [jonathanperezy](https://github.com/jonathanperezy)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/OverLord48/SysInventario) quíenes han participado en este proyecto. 
 
