@@ -1,7 +1,7 @@
 # SysInventario
 Repo para sistema de inventario hecho con django y bootstrap 4
 
-La ejecucion de este proyecto, es necesario tener un entorno virtual creado (virtualenv),
+Para la ejecucion de este proyecto, es necesario tener un entorno virtual creado (virtualenv),
 luego ejecutar la instalacion con pip3 del requeriments.txt, 
 una vez terminada la instalacion y la configuracion del entorno entonces se procede a instalar nuestra app:
 1 -> iniciar el entorno virtual.
