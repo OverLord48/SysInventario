@@ -72,4 +72,3 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
 * etc.
->>>>>>> f66b4c668bb6ec706e522ab10ec8d625045ae11a
